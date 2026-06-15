@@ -21,16 +21,16 @@
     "ai",
     "anthropic"
   ],
-  "homepage": "https://github.com/YOUR_USERNAME/rir-web-type#readme",
-  "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/rir-web-type/issues"
-  },
+  "homepage": "https://github.com/olatunjihaleemadc-cyber/rir-web-type#readme",
+"bugs": {
+      "url": "https://github.com/olatunjihaleemadc-cyber/rir-web-type/issues"
+},
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/rir-web-type.git"
-  },
+  "type": "git",
+  "url": "git+https://github.com/olatunjihaleemadc-cyber/rir-web-type.git"
+}
   "license": "MIT",
-  "author": "YOUR_NAME",
+  "author": "Haleema Olatunjidc"
   "main": "bin/rir-web-type.js",
   "bin": {
     "rir-web-type": "./bin/rir-web-type.js"

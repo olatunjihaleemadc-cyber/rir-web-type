@@ -1,7 +1,7 @@
 {
   "name": "rir-web-type",
   "version": "1.0.0",
-  "description": "Claude Code skill — classify any website into PRESENCE, COMMERCE, or PLATFORM, produce a sitemap for approval, then build to the correct stack and conversion profile. Covers 12 sub-types across all three categories.",
+  "description": "Claude Code skill — classify any website into PRESENCE, COMMERCE, or PLATFORM, produce a sitemap for approval, then build to the correct stack and conversion profile. Covers 12 [...]",
   "keywords": [
     "claude",
     "claude-code",
@@ -22,15 +22,15 @@
     "anthropic"
   ],
   "homepage": "https://github.com/olatunjihaleemadc-cyber/rir-web-type#readme",
-"bugs": {
-      "url": "https://github.com/olatunjihaleemadc-cyber/rir-web-type/issues"
-},
+  "bugs": {
+    "url": "https://github.com/olatunjihaleemadc-cyber/rir-web-type/issues"
+  },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/olatunjihaleemadc-cyber/rir-web-type.git"
-}
+    "type": "git",
+    "url": "git+https://github.com/olatunjihaleemadc-cyber/rir-web-type.git"
+  },
   "license": "MIT",
-  "author": "Haleema Olatunjidc"
+  "author": "Haleema Olatunjidc",
   "main": "bin/rir-web-type.js",
   "bin": {
     "rir-web-type": "./bin/rir-web-type.js"
